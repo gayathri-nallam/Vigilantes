@@ -1,0 +1,2 @@
+# Vigilantes
+ Vigilantes a website which helps students to gain more knowledge on communication skills ,in which we have also included Dictionary and a Translator which makes easier to students to learn other languages from their mother tongue. Our main motto is that each student should develop soft skills as soft skills are also important along with academic and coding knowledge in placement drive.
