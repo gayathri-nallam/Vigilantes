@@ -1,0 +1,62 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19 Jun, 2020, 9:44:42 AM
+    Author     : HARIPRIYA
+*/
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(img/useracc.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#Account-box
+{
+    margin: 5% auto;
+    position: relative;
+    height: 450px;
+    width: 400px;
+    background: rgba(211, 211, 211, 0.9);
+    padding: 30px;
+    border-radius: 10px;
+}
+h1{
+    color: blue;
+    margin: 20px;
+    font-weight: 300;
+    font-size: 48px;
+}
+
+img{
+    display: block;
+    margin: 0 auto 0 auto;
+}
+
+label
+{
+    display: block;
+    margin:  auto;
+}
+
+button.update
+{
+    margin-bottom: 20px;
+    width: 220px;
+    height: 36px;
+    border: none;
+    border-radius: 2px;
+    color: #fff;
+    font-family: sans-serif;
+    font-weight: 500;
+    transition: 0.2s ease;
+}
+
+.account
+{
+    background: #9c27b0;
+}
